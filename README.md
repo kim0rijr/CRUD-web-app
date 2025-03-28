@@ -7,7 +7,7 @@ Follow the below steps:
  1. Download and Install Xampp server. Link: https://www.apachefriends.org/download.html
  2. In phpMyAdmin select import and choose mrgeo.sql
  3. copy the mrgeo folder and paste it in the htdocs folder.
- 4. Type localhost/mrgeo/index.php or just localhost/freelance in your browser to see the website
+ 4. Type localhost/mrgeo/index.php in your browser to see the website
  
 You need some basic knowledge of Xampp and mysql to run this properly.
 Database name "mrgeo"
